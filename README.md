@@ -1,16 +1,33 @@
-### Hi there 👋
+### Oi eu sou o João Douglas! 🙋🏽‍♂️
 
-<!--
-**JotaDouglas/JotaDouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"QUEM QUER REALMENTE FAZ ACONTECER!"
 
-Here are some ideas to get you started:
+Levo esta frase comigo, após perceber que se realmente queremos buscar um sonho, somos nós, a primeira pessoa que precisa acreditar que algo é possível, além de buscar fazer acontecer e não esperar que as coisas aconteçam sem nenhum esforço próprio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### QUEM SOU EU?
+- 📅23 anos.
+- 🏙 Araras - São Paulo/Brasil.
+- 👨🏽‍🎓Estudante de Sistemas de Informação (Bacharelado).
+- 💻Estou atualmemte estudando desenvolvimento mobile híbrido com React Native.
+- 😁Conhecimento em HTML e CSS
+- 👨🏽‍💻Estudando a linguagem JavaScript
+- 📣Inglês Intermediáio
+
+### Hobbies:
+Fã de inúmeras coisas como:
+- ⚽Futebol
+- ⛹🏽‍♂️Basquete
+- ✈Viagens
+- 🔎Aprender coisas novas!
+- 📺Filmes e séries
+- 📚leitura de livros
+- 🎬Apresentava um canal no YouTube
+
+Redes Sociais:
+
+<a href="https://www.facebook.com/douglas1999"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" ></a>
+<a href="https://www.instagram.com/juaodouglas/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" ></a>
+<a href="https://www.linkedin.com/in/joaodouglas-silva/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="https://www.youtube.com/@CanalIncomum"> <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" ></a>
+
+
