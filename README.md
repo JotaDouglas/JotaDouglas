@@ -11,7 +11,7 @@ Levo esta frase comigo, após perceber que se realmente queremos buscar um sonho
 - 💻Estou atualmemte estudando desenvolvimento mobile híbrido com React Native.
 - 😁Conhecimento em HTML e CSS
 - 👨🏽‍💻Estudando a linguagem JavaScript
-- 📣Inglês Intermediáio
+- 📣Inglês Intermediário
 
 ### Hobbies:
 Fã de inúmeras coisas como:
