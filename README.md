@@ -10,11 +10,11 @@ Levo esta frase comigo, após perceber que se realmente queremos buscar um sonho
 - 👨🏽‍🎓Estudante de Sistemas de Informação (Bacharelado).
 - 💻Estou atualmemte estudando desenvolvimento mobile híbrido com React Native.
 - 😁Conhecimento em HTML e CSS
-- 👨🏽‍💻Estudando a linguagem JavaScript
+- 👨🏽‍💻Estudando desenvolvimento mobile flutter
 - 📣Inglês Intermediário
 
 ### Hobbies:
-Fã de inúmeras coisas como:
+/meus hobbies são:
 - ⚽Futebol
 - ⛹🏽‍♂️Basquete
 - ✈Viagens
