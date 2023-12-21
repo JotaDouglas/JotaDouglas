@@ -5,7 +5,7 @@
 Levo esta frase comigo, após perceber que se realmente queremos buscar um sonho, somos nós, a primeira pessoa que precisa acreditar que algo é possível, além de buscar fazer acontecer e não esperar que as coisas aconteçam sem nenhum esforço próprio.
 
 ### QUEM SOU EU?
-- 📅23 anos.
+- 📅24 anos.
 - 🏙 Araras - São Paulo/Brasil.
 - 👨🏽‍🎓Estudante de Sistemas de Informação (Bacharelado).
 - 💻Estou atualmemte estudando desenvolvimento mobile híbrido com React Native.
