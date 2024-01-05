@@ -8,7 +8,7 @@ Levo esta frase comigo, após perceber que se realmente queremos buscar um sonho
 - 📅24 anos.
 - 🏙 Araras - São Paulo/Brasil.
 - 👨🏽‍🎓Estudante de Sistemas de Informação (Bacharelado).
-- 💻Estou atualmemte estudando desenvolvimento mobile híbrido com React Native.
+- 💻Estou atualmemte estudando desenvolvimento mobile híbrido com Flutter.
 - 😁Conhecimento em HTML e CSS
 - 👨🏽‍💻Estudando desenvolvimento mobile flutter
 - 📣Inglês Intermediário
