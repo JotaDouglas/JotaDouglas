@@ -1,6 +1,6 @@
 ### Oi eu sou o João Douglas! 🙋🏽‍♂️
 
-"QUEM QUER MUDANÇAS FAZ ACONTECER!"
+"QUEM DESEJA MUDANÇAS, FAZ ACONTECER!"
 
 Levo esta frase comigo, após perceber que se realmente queremos buscar um sonho, somos nós, a primeira pessoa que precisa acreditar que algo é possível, além de buscar fazer acontecer e não esperar que as coisas aconteçam sem nenhum esforço próprio.
 
