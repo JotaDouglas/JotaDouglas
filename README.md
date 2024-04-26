@@ -9,7 +9,7 @@ Levo esta frase comigo, após perceber que se realmente queremos buscar um sonho
 - 🏙 Araras - São Paulo/Brasil.
 - 👨🏽‍🎓Estudante de Sistemas de Informação (Bacharelado).
 - 💻Estou atualmemte buscando se desenvolver no desenvolvimento mobile híbrido com Flutter.
-- 😁Conhecimento em HTML, CSS, JavaScript e Flutter+Dart
+- 😁Conhecimento em HTML, CSS, JavaScript, Flutter e Dart
 - 👨🏽‍💻Estudando desenvolvimento mobile flutter
 - 📣Inglês Intermediário
 
